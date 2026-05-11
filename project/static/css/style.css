@@ -1,0 +1,23 @@
+body {
+    background: #0b0f1a;
+    color: #fff;
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+.buy { color: #00ff88; }
+.sell { color: #ff4d4d; }
+.neutral { color: #aaa; }
